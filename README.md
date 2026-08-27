@@ -1,1 +1,1 @@
-# TP-02-Objetos-2- Sistema de Liquidación de Sueldos en Java
+# TPs para objetos 2 echos en java
